@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Using JavaScript, Bootstrap and HTML, create a webpage and dynamic tables to display data of UFO sightings by allowing users to filter for multiple criteria at the same time by adding table filters for the date, city, state, country, and shape.
+Using JavaScript, Bootstrap and HTML,we created a webpage and dynamic tables to display data of UFO sightings by allowing users to filter for multiple criteria at the same time by adding table filters for the date, city, state, country, and shape.
 
 ## Deployed Link
 
@@ -18,7 +18,7 @@ After opening the webpage, user will see the filters to get the data of UFO sigh
 ## Summary
 
 One drawback of this design is that it is necessary for the user to match one of the five filters with the data in our javascript in order for the result to be returned.
-Two recommendations-
+Two recommendations for further development-
 
 1. We are limited to the data in only one js file. We could use Web Scraping to get more data to display the results.
 2. We can add one more filter for duration and we can add one more section for the people to add their sightings.
